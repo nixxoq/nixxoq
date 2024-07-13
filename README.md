@@ -1,6 +1,6 @@
-### Hi, I'm Snaky1a, also known as Whitesnake1995
-### From Ukraine
+### Hi, I am NixxO, also known as Snaky1a, Snaky
+### I am a Python, C# and C++ (newbie) developer with 2 years of experience. CEO of The Rebuild. 
 
-### Currently maintaining [my website](https://github.com/snaky1a/snaky1a.github.io) and [xp-apps](https://github.com/snaky1a/xp-apps) repositories
+Currently developing [xp-apps](https://github.com/nixxoq/xp-apps) and [The Rebuild](https://github.com/TheRebuild), also helping with the [One-Core-API](https://github.com/skulltrail192/One-Core-API-Source) (with localization only). 
 
-### my website: http://snaky1a.pw (works even in Internet Explorer 3!)
+### My website: https://nixxoq.xyz
