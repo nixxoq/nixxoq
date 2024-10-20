@@ -17,4 +17,4 @@ Python, C# and C++ (sorta) developer.<br><br>My projects: @TheRebuild and @Synth
 ![](https://github-contributor-stats.vercel.app/api?username=nixxoq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nixxoq&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=nixxoq&color=green)
