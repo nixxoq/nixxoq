@@ -20,7 +20,7 @@ Python, C# and C++ (sorta) developer.<br>Learning Rust programming language (as 
 
 <details><summary>Streak</summary>
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=nixxoq&theme=merko&hide_border=false)
+  ![](https://streak-stats.demolab.com/?user=nixxoq)
 </details>
 
 ## 🏆 GitHub Trophies
