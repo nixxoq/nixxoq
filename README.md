@@ -7,17 +7,17 @@
 
 ## 🚀 About Me
 
-Focus on developing practical software like system utilities, desktop applications (CLI), and tools designed to interact with various OS environments (mainly Windows and Linux) and online services. My primary languages for this are Python and C#, though I also have experience with C++.
+Focus on developing practical software like system utilities, desktop applications (preffered CLI only), and tools designed to interact with various OS environments (mainly Windows and Linux) and online services. My primary language for this is a Rust, though I also have experience with Python and C#.
 
-Currently, I'm actively expanding my skillset by diving into the Rust programming language 🦀, exploring its potential for building robust and efficient applications. I believe in continuous refinement, and view bug hunting as a crucial part of that process – so feel free to report any issues you find in my projects!
+Currently, I'm actively expanding my skillset by diving into the C++ programming language.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-Here are some of the technologies and tools I work with:
+Here are some of the technologies and tools I work(-ed) with:
 
-*   **Languages:**
+*   **Programming Languages:**
     
 
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,6 +37,7 @@ Here are some of the technologies and tools I work with:
 
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 *   **Tools & Platforms:**
 
 
@@ -54,12 +55,6 @@ Here are some of the technologies and tools I work with:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nixxoq&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://streak-stats.demolab.com/?user=nixxoq&theme=merko)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nixxoq&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
