@@ -53,8 +53,7 @@ Here are some of the technologies and tools I work(-ed) with:
 
 ![](https://github-readme-stats.vercel.app/api?username=nixxoq&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nixxoq&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://streak-stats.demolab.com/?user=nixxoq&theme=merko)
+![](https://streak-stats.vercel.app/?user=nixxoq&theme=merko)
 
 ---
 
