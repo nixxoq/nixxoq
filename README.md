@@ -1,66 +1,29 @@
-# Hi there, I'm nixxoq 👋
+# Hi there
 
-<p align="center">
-  <!-- Optional: Add a banner image here. Find cool ones at https://github.com/kautukkundan/Awesome-Profile-Banners -->
-  <!-- Example: <img src="YOUR_BANNER_URL" alt="Banner" width="100%"> -->
-</p>
+## About Me
 
-## 🚀 About Me
+16 y.o., currently studying at the Richelieu Scientific Lyceum. At the moment, I am focusing on developing practical software that would have some kind of useful purpose. 
 
-Focus on developing practical software like system utilities, desktop applications (preffered CLI only), and tools designed to interact with various OS environments (mainly Windows and Linux) and online services. My primary language for this is a Rust, though I also have experience with Python and C#.
+My main programming language are C/C++ and Rust, although I also have experience with Python, C# and TypeScript.
 
-Currently, I'm actively expanding my skillset by diving into the C++ programming language.
+I am currently expanding my skills by studying Windows Internals.
 
 ---
 
-## 🛠️ My Tech Stack
-
-Here are some of the technologies and tools I work(-ed) with:
-
-*   **Programming Languages:**
-    
-
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-*   **Frameworks & Libraries:**
-
-
-    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-    ![AIOHTTP](https://img.shields.io/badge/aiohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white)
-    ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-*   **Databases:**
-
-
-    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-*   **Tools & Platforms:**
-
-
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 📊 GitHub Stats & Activity
+## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=nixxoq&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nixxoq&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://streak-stats.vercel.app/?user=nixxoq&theme=merko)
 
 ---
 
 ## 📫 How to Reach Me
 *   **Email:** nixxoq@outlook.com
-*   **Telegram:** [click me](https://t.me/sanky3b)
-*   Feel free to open an issue or pull request on any of my repositories!
+*   **Telegram:** [click me](https://t.me/nixxoq)
+*   Feel free to open an issue or pull request on any of my repositories.
 
 ---
 
